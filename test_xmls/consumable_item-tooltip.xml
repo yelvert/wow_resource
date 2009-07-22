@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>45038</id>
+      <name>Fragment of Val'anyr</name>
+      <icon>inv_ingot_titansteel_red</icon>
+      <overallQualityId>5</overallQualityId>
+      <bonding>1</bonding>
+      <maxCount>30</maxCount>
+      <stackable>30</stackable>
+      <classId>0</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+      </equipData>
+      <damageData/>
+      <allowableClasses>
+        <class>Paladin</class>
+        <class>Priest</class>
+        <class>Shaman</class>
+        <class>Druid</class>
+      </allowableClasses>
+      <requiredLevel>80</requiredLevel>
+      <spellData>
+        <spell>
+          <trigger>0</trigger>
+          <desc>Combines 30 Fragments of Val'anyr to form the Shattered Fragments of Val'anyr.</desc>
+          <charges>1</charges>
+        </spell>
+      </spellData>
+      <desc>The fragments of this ancient hammer glow with a cool, soothing light.</desc>
+      <itemSource value="sourceType.worldDrop"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

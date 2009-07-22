@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=43537" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_glyph_majordeathknight" id="43537" level="55" name="Glyph of Chains of Ice" quality="1" type="Death Knight">
+      <cost sellPrice="100"/>
+      <createdBy>
+        <spell icon="inv_feather_05" id="57211" name="Glyph of Chains of Ice">
+          <reagent count="1" icon="inv_inscription_inkpurple01" id="43126" name="Ink of the Sea"/>
+          <reagent count="1" icon="inv_inscription_certificate" id="39502" name="Resilient Parchment"/>
+        </spell>
+      </createdBy>
+    </item>
+  </itemInfo>
+</page>

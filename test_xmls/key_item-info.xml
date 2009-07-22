@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=44581" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="spell_holy_mindsooth" id="44581" level="1" name="Heroic Key to the Focusing Iris" quality="4" type="Key">
+      <startsQuest>
+        <quest area="Naxxramas" id="13375" level="80" name="The Heroic Key to the Focusing Iris" reqMinLevel="80" suggestedPartySize="0"/>
+      </startsQuest>
+      <rewardFromQuests>
+        <quest area="Naxxramas" id="13375" level="80" name="The Heroic Key to the Focusing Iris" reqMinLevel="80" suggestedPartySize="0"/>
+      </rewardFromQuests>
+    </item>
+  </itemInfo>
+</page>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>43345</id>
+      <name>Dragon Hide Bag</name>
+      <icon>inv_misc_bag_26_spellfire</icon>
+      <overallQualityId>4</overallQualityId>
+      <bonding>1</bonding>
+      <maxCount>1</maxCount>
+      <classId>1</classId>
+      <equipData>
+        <inventoryType>18</inventoryType>
+        <containerSlots>22</containerSlots>
+        <subclassName>Bag</subclassName>
+      </equipData>
+      <damageData/>
+      <requiredLevel>-1</requiredLevel>
+      <itemSource areaId="4493" areaName="Obsidian Sanctum" creatureId="28860" creatureName="Sartharion" difficulty="n" dropRate="6" value="sourceType.creatureDrop"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=45100" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_scroll_04" id="45100" level="85" name="Pattern: Belt of Arctic Life" quality="4" requiredSkill="Leatherworking" requiredSkillRank="450" type="Leatherworking">
+      <cost sellPrice="25000"/>
+    </item>
+  </itemInfo>
+</page>

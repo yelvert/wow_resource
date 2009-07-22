@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>29143</id>
+      <name>Clefthoof Hide Quiver</name>
+      <icon>inv_misc_quiver_08</icon>
+      <overallQualityId>3</overallQualityId>
+      <bonding>1</bonding>
+      <maxCount>1</maxCount>
+      <classId>11</classId>
+      <equipData>
+        <inventoryType>18</inventoryType>
+        <containerSlots>18</containerSlots>
+        <subclassName>Quiver</subclassName>
+      </equipData>
+      <damageData/>
+      <allowableClasses>
+        <class>Hunter</class>
+      </allowableClasses>
+      <requiredLevel>68</requiredLevel>
+      <requiredFaction name="The Mag'har" rep="5"/>
+      <itemSource value="sourceType.factionReward"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

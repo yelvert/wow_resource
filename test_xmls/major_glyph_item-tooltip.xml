@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>43537</id>
+      <name>Glyph of Chains of Ice</name>
+      <icon>inv_glyph_majordeathknight</icon>
+      <overallQualityId>1</overallQualityId>
+      <bonding>0</bonding>
+      <stackable>20</stackable>
+      <classId>16</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+        <subclassName>Death Knight</subclassName>
+      </equipData>
+      <damageData/>
+      <allowableClasses>
+        <class>Death Knight</class>
+      </allowableClasses>
+      <requiredLevel>55</requiredLevel>
+      <spellData>
+        <spell>
+          <trigger>0</trigger>
+          <desc>Your Chains of Ice also causes 144 to 156 Frost damage, increased by your attack power.</desc>
+          <charges>1</charges>
+        </spell>
+      </spellData>
+      <itemSource value="sourceType.createdBySpell"/>
+      <glyphType>MAJOR</glyphType>
+    </itemTooltip>
+  </itemTooltips>
+</page>

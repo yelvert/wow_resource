@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>41167</id>
+      <name>Heartseeker Scope</name>
+      <icon>inv_misc_spyglass_02</icon>
+      <overallQualityId>3</overallQualityId>
+      <bonding>0</bonding>
+      <stackable>5</stackable>
+      <classId>7</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+      </equipData>
+      <damageData/>
+      <requiredLevel>70</requiredLevel>
+      <spellData>
+        <spell>
+          <trigger>0</trigger>
+          <desc>Attaches a permanent scope to a bow or gun that increases its ranged critical strike rating by 40.
+
+
+
+Attaching this scope to a ranged weapon causes it to become soulbound.</desc>
+          <charges>1</charges>
+        </spell>
+      </spellData>
+      <itemSource value="sourceType.createdBySpell"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

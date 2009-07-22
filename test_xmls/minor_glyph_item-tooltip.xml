@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>44922</id>
+      <name>Glyph of Typhoon</name>
+      <icon>inv_glyph_minordruid</icon>
+      <overallQualityId>1</overallQualityId>
+      <bonding>0</bonding>
+      <stackable>20</stackable>
+      <classId>16</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+        <subclassName>Druid</subclassName>
+      </equipData>
+      <damageData/>
+      <allowableClasses>
+        <class>Druid</class>
+      </allowableClasses>
+      <requiredLevel>70</requiredLevel>
+      <spellData>
+        <spell>
+          <trigger>0</trigger>
+          <desc>Reduces the cost of your Typhoon spell by 8%, but it no longer knocks enemies back.</desc>
+          <charges>1</charges>
+        </spell>
+      </spellData>
+      <itemSource value="sourceType.createdBySpell"/>
+      <glyphType>MINOR</glyphType>
+    </itemTooltip>
+  </itemTooltips>
+</page>

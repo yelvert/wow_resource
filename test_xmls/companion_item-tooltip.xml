@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>44168</id>
+      <name>Reins of the Time-Lost Proto-Drake</name>
+      <icon>ability_mount_drake_proto</icon>
+      <overallQualityId>4</overallQualityId>
+      <bonding>1</bonding>
+      <maxCount>1</maxCount>
+      <classId>15</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+        <subclassName>Mount</subclassName>
+      </equipData>
+      <damageData/>
+      <requiredLevel>80</requiredLevel>
+      <requiredSkill name="Riding" rank="300"/>
+      <spellData>
+        <spell>
+          <trigger>6</trigger>
+          <desc>Teaches you how to summon this mount.  Can only be summoned in Outland or Northrend.  This is a very fast mount.</desc>
+        </spell>
+      </spellData>
+      <itemSource areaId="67" areaName="" creatureId="0" creatureName="" difficulty="" dropRate="6" value="sourceType.creatureDrop"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

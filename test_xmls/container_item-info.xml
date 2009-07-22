@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=43345" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_misc_bag_26_spellfire" id="43345" level="80" name="Dragon Hide Bag" quality="4" type="Bag">
+      <cost sellPrice="8750"/>
+      <dropCreatures>
+        <creature area="The Obsidian Sanctum" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4493&amp;fl[boss]=all" classification="3" dropRate="6" id="28860" maxLevel="83" minLevel="83" name="Sartharion" title="The Onyx Guardian" type="Dragonkin" url="fl[source]=dungeon&amp;fl[dungeon]=4493&amp;fl[difficulty]=normal&amp;fl[boss]=28860"/>
+        <creature area="The Obsidian Sanctum" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4493&amp;fl[boss]=all" classification="3" dropRate="6" heroic="1" id="31311" maxLevel="83" minLevel="83" name="Sartharion" title="The Onyx Guardian" type="Dragonkin" url="fl[source]=dungeon&amp;fl[dungeon]=4493&amp;fl[difficulty]=normal&amp;fl[boss]=28860"/>
+      </dropCreatures>
+    </item>
+  </itemInfo>
+</page>

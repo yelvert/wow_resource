@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>45100</id>
+      <name>Pattern: Belt of Arctic Life</name>
+      <icon>inv_scroll_04</icon>
+      <overallQualityId>4</overallQualityId>
+      <bonding>0</bonding>
+      <classId>9</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+      </equipData>
+      <damageData/>
+      <requiredLevel>-1</requiredLevel>
+      <requiredSkill name="Leatherworking" rank="450"/>
+      <spellData>
+        <spell>
+          <trigger>6</trigger>
+          <desc>Teaches you how to make a Belt of Arctic Life.</desc>
+        </spell>
+      </spellData>
+      <itemSource value="sourceType.none"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

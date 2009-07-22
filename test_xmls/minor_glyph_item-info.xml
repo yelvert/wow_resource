@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=44922" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_glyph_minordruid" id="44922" level="70" name="Glyph of Typhoon" quality="1" type="Druid">
+      <cost sellPrice="100"/>
+      <createdBy>
+        <spell icon="inv_feather_05" id="56965" name="Glyph of Typhoon">
+          <reagent count="1" icon="inv_inscription_certificate" id="39502" name="Resilient Parchment"/>
+          <reagent count="1" icon="inv_inscription_inkpurple01" id="43126" name="Ink of the Sea"/>
+        </spell>
+      </createdBy>
+    </item>
+  </itemInfo>
+</page>

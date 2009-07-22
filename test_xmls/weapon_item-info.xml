@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=45957" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_axe_97" id="45957" level="239" name="Furious Gladiator's Handaxe" quality="4" type="One-Handed Axes">
+      <cost arena="3000"/>
+      <vendors>
+        <creature area="Crystalsong Forest" classification="0" id="34087" maxLevel="70" minLevel="70" name="Trapjaw Rix" title="Exceptional Arena Weaponry" type="Humanoid"/>
+        <creature area="Netherstorm" classification="0" id="34089" maxLevel="70" minLevel="70" name="Grex Brainboiler" title="Exceptional Arena Weaponry" type="Humanoid"/>
+        <creature area="Tanaris" classification="0" id="34088" maxLevel="70" minLevel="70" name="Blazzek the Biter" title="Exceptional Arena Weaponry" type="Humanoid"/>
+      </vendors>
+    </item>
+  </itemInfo>
+</page>

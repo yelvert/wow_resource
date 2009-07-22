@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>41165</id>
+      <name>Saronite Razorheads</name>
+      <icon>inv_ammo_arrow_01</icon>
+      <overallQualityId>3</overallQualityId>
+      <bonding>0</bonding>
+      <stackable>1000</stackable>
+      <classId>6</classId>
+      <equipData>
+        <inventoryType>24</inventoryType>
+        <subclassName>Arrow</subclassName>
+      </equipData>
+      <damageData>
+        <damage>
+          <type>0</type>
+          <min>67</min>
+          <max>68</max>
+        </damage>
+      </damageData>
+      <requiredLevel>72</requiredLevel>
+      <itemSource value="sourceType.createdBySpell"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

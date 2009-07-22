@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=29143" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_misc_quiver_08" id="29143" level="109" name="Clefthoof Hide Quiver" quality="3" type="Quiver">
+      <cost buyPrice="100000" sellPrice="25000"/>
+      <vendors>
+        <creature area="Nagrand" classification="0" id="20241" maxLevel="65" minLevel="65" name="Provisioner Nasela" title="Mag'har Quartermaster" type="Humanoid"/>
+      </vendors>
+    </item>
+  </itemInfo>
+</page>

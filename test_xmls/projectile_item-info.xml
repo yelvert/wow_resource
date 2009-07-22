@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=41165" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_ammo_arrow_01" id="41165" level="200" name="Saronite Razorheads" quality="3" type="Arrow">
+      <cost sellPrice="2"/>
+      <createdBy>
+        <spell icon="ability_hunter_aimedshot" id="60875" name="Create Saronite Razorhead"/>
+      </createdBy>
+    </item>
+  </itemInfo>
+</page>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=41167" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_misc_spyglass_02" id="41167" level="80" name="Heartseeker Scope" quality="3" type="Devices">
+      <cost sellPrice="25000"/>
+      <createdBy>
+        <spell icon="trade_engineering" id="56478" name="Heartseeker Scope">
+          <reagent count="10" icon="inv_ingot_yoggthorite" id="36913" name="Saronite Bar"/>
+          <reagent count="2" icon="inv_jewelcrafting_gem_06" id="36927" name="Twilight Opal"/>
+        </spell>
+      </createdBy>
+    </item>
+  </itemInfo>
+</page>

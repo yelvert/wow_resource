@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=45038" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_ingot_titansteel_red" id="45038" level="80" name="Fragment of Val'anyr" quality="5" type="Consumable">
+      <containerObjects>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="3" heroic="1" id="194331" name="Freya's Gift"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="2" heroic="1" id="195047" name="Cache of Living Stone"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="3" heroic="1" id="194958" name="Cache of Innovation"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="3" heroic="1" id="194822" name="Gift of the Observer" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=heroic&amp;fl[boss]=32871"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="2" heroic="1" id="194956" name="Cache of Innovation"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="2" heroic="1" id="194308" name="Cache of Winter"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="2" heroic="1" id="194315" name="Cache of Storms"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="3" heroic="1" id="194314" name="Cache of Storms"/>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="3" heroic="1" id="194201" name="Rare Cache of Winter"/>
+      </containerObjects>
+      <dropCreatures>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="33190" maxLevel="83" minLevel="83" name="Ignis the Furnace Master" type="Giant" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=33118"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="34003" maxLevel="83" minLevel="83" name="Flame Leviathan" type="Mechanical" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=33113"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="33692" maxLevel="83" minLevel="83" name="Runemaster Molgeim" type="Humanoid"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="3" heroic="1" id="33070" maxLevel="83" minLevel="83" name="Algalon the Observer" type="Elemental" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=32871"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="33724" maxLevel="83" minLevel="83" name="Razorscale" type="Dragonkin" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=33186"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="34175" maxLevel="83" minLevel="83" name="Auriaya" type="Giant" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=33515"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="33885" maxLevel="83" minLevel="83" name="XT-002 Deconstructor" type="Mechanical" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=33293"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="6" heroic="1" id="33955" maxLevel="83" minLevel="83" name="Yogg-Saron" type="Not specified" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=33288"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="3" heroic="1" id="33693" maxLevel="83" minLevel="83" name="Steelbreaker" type="Giant" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=32867"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="33449" maxLevel="83" minLevel="83" name="General Vezax" type="Not specified" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=33271"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="2" heroic="1" id="33694" maxLevel="83" minLevel="83" name="Stormcaller Brundir" type="Humanoid"/>
+      </dropCreatures>
+      <reagentFor>
+        <spell icon="trade_engineering" id="62812" name="Forming Val'anyr, Gavel of Ancient Kings">
+          <item icon="inv_ingot_titansteel_red" id="45039" level="0" name="Shattered Fragments of Val'anyr" quality="5" type="Consumable"/>
+          <reagent count="29" icon="inv_ingot_titansteel_red" id="45038" name="Fragment of Val'anyr"/>
+        </spell>
+      </reagentFor>
+    </item>
+  </itemInfo>
+</page>

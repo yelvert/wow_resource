@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=44168" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="ability_mount_drake_proto" id="44168" level="80" name="Reins of the Time-Lost Proto-Drake" quality="4" requiredSkill="Riding" requiredSkillRank="300" type="Mount">
+      <dropCreatures>
+        <creature area="The Storm Peaks" classification="2" dropRate="6" id="32491" maxLevel="80" minLevel="80" name="Time-Lost Proto Drake" type="Dragonkin"/>
+      </dropCreatures>
+    </item>
+  </itemInfo>
+</page>

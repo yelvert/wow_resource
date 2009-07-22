@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>44581</id>
+      <name>Heroic Key to the Focusing Iris</name>
+      <icon>spell_holy_mindsooth</icon>
+      <overallQualityId>4</overallQualityId>
+      <bonding>1</bonding>
+      <maxCount>1</maxCount>
+      <classId>13</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+      </equipData>
+      <damageData/>
+      <requiredLevel>-1</requiredLevel>
+      <spellData>
+        <spell>
+          <trigger>0</trigger>
+          <desc>Opens the Normal and Heroic difficulty versions of The Focusing Iris within The Eye of Eternity.</desc>
+        </spell>
+      </spellData>
+      <itemSource value="sourceType.createdBySpell"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

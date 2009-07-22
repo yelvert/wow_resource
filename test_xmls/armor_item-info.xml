@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=45610" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_helmet_92" id="45610" level="239" name="Boundless Gaze" quality="4" type="Mail">
+      <cost sellPrice="108435"/>
+      <disenchantLoot requiredSkillRank="375">
+        <item dropRate="6" icon="inv_enchant_abysscrystal" id="34057" level="80" maxCount="1" minCount="1" name="Abyss Crystal" quality="4" type="Enchanting"/>
+      </disenchantLoot>
+      <containerObjects>
+        <object area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" dropRate="3" heroic="1" id="194822" name="Gift of the Observer" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=heroic&amp;fl[boss]=32871"/>
+      </containerObjects>
+      <dropCreatures>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="3" dropRate="3" heroic="1" id="33070" maxLevel="83" minLevel="83" name="Algalon the Observer" type="Elemental" url="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[difficulty]=normal&amp;fl[boss]=32871"/>
+      </dropCreatures>
+    </item>
+  </itemInfo>
+</page>

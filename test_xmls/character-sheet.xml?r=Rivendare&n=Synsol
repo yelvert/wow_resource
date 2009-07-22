@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/character/sheet.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/character-sheet.xml">
+  <tabInfo subTab="profile" tab="character" tabGroup="character" tabUrl="r=Rivendare&amp;cn=Synsol&amp;gn=Crit+Happens"/>
+  <characterInfo>
+    <character battleGroup="Emberstorm" charUrl="r=Rivendare&amp;n=Synsol" class="Paladin" classId="2" classUrl="c=Paladin" faction="Horde" factionId="1" gender="Male" genderId="0" guildName="Crit Happens" guildUrl="r=Rivendare&amp;gn=Crit+Happens" lastModified="June 17, 2009" level="40" name="Synsol" points="250" prefix="" race="Blood Elf" raceId="10" realm="Rivendare" suffix=""/>
+    <characterTab>
+      <talentSpecs>
+        <talentSpec active="1" group="1" icon="spell_holy_auraoflight" prim="Retribution" treeOne="0" treeThree="31" treeTwo="0"/>
+      </talentSpecs>
+      <buffs/>
+
+      <debuffs/>
+      <pvp>
+        <lifetimehonorablekills value="39"/>
+        <arenacurrency value="0"/>
+      </pvp>
+      <professions>
+        <skill key="blacksmithing" max="225" name="Blacksmithing" value="169"/>
+        <skill key="mining" max="225" name="Mining" value="191"/>
+      </professions>
+
+      <title value=""/>
+      <knownTitles/>
+      <characterBars>
+        <health effective="2051"/>
+        <secondBar casting="8" effective="1847" notCasting="30" type="m"/>
+      </characterBars>
+      <baseStats>
+        <strength attack="282" base="67" block="7" effective="151"/>
+        <agility armor="142" attack="-1" base="48" critHitPercent="8.61" effective="71"/>
+
+        <stamina base="70" effective="161" health="1430" petBonus="-1"/>
+        <intellect base="53" critHitPercent="5.41" effective="76" mana="860" petBonus="-1"/>
+        <spirit base="51" effective="62" healthRegen="14" manaRegen="22"/>
+        <armor base="3134" effective="3144" percent="45.28" petBonus="-1"/>
+      </baseStats>
+      <resistances>
+        <arcane petBonus="-1" value="0"/>
+        <fire petBonus="-1" value="0"/>
+        <frost petBonus="-1" value="0"/>
+
+        <holy petBonus="-1" value="0"/>
+        <nature petBonus="-1" value="0"/>
+        <shadow petBonus="-1" value="0"/>
+      </resistances>
+      <melee>
+        <mainHandDamage dps="60.2" max="133" min="96" percent="0" speed="1.90"/>
+        <offHandDamage dps="0.0" max="0" min="0" percent="0" speed="2.00"/>
+        <mainHandSpeed hastePercent="0.00" hasteRating="0" value="1.90"/>
+        <offHandSpeed hastePercent="0.00" hasteRating="0" value="2.00"/>
+
+        <power base="402" effective="402" increasedDps="28.0"/>
+        <hitRating increasedHitPercent="0.00" penetration="0" reducedArmorPercent="0.00" value="0"/>
+        <critChance percent="15.04" plusPercent="1.62" rating="14"/>
+        <expertise additional="0" percent="0.00" rating="0" value="0"/>
+      </melee>
+      <ranged>
+        <weaponSkill rating="0" value="0"/>
+        <damage dps="0.0" max="10" min="9" percent="0" speed="0.00"/>
+        <speed hastePercent="0.00" hasteRating="0" value="0.00"/>
+
+        <power base="61" effective="61" increasedDps="4.0" petAttack="-1.00" petSpell="-1.00"/>
+        <hitRating increasedHitPercent="0.00" penetration="0" reducedArmorPercent="0.00" value="0"/>
+        <critChance percent="10.00" plusPercent="1.62" rating="14"/>
+      </ranged>
+      <spell>
+        <bonusDamage>
+          <arcane value="0"/>
+          <fire value="0"/>
+          <frost value="0"/>
+
+          <holy value="0"/>
+          <nature value="0"/>
+          <shadow value="0"/>
+          <petBonus attack="-1" damage="-1" fromType=""/>
+        </bonusDamage>
+        <bonusHealing value="0"/>
+        <hitRating increasedHitPercent="0.00" penetration="0" reducedResist="0" value="0"/>
+        <critChance rating="14">
+          <arcane percent="12.04"/>
+
+          <fire percent="12.04"/>
+          <frost percent="12.04"/>
+          <holy percent="12.04"/>
+          <nature percent="12.04"/>
+          <shadow percent="12.04"/>
+        </critChance>
+        <penetration value="0"/>
+        <manaRegen casting="8.00" notCasting="30.00"/>
+        <hasteRating hastePercent="0.00" hasteRating="0"/>
+
+      </spell>
+      <defenses>
+        <armor base="3134" effective="3144" percent="45.28" petBonus="-1"/>
+        <defense decreasePercent="0.16" increasePercent="0.16" plusDefense="9" rating="9" value="195.00"/>
+        <dodge increasePercent="0.00" percent="8.82" rating="0"/>
+        <parry increasePercent="0.00" percent="10.17" rating="0"/>
+        <block increasePercent="0.00" percent="5.16" rating="0"/>
+        <resilience damagePercent="0.00" hitPercent="0.00" value="0.00"/>
+      </defenses>
+
+      <items>
+        <item durability="48" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_helmet_25" id="7719" maxDurability="70" permanentenchant="0" randomPropertiesId="0" seed="1333083520" slot="0"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_jewelry_amulet_01" id="7722" maxDurability="0" permanentenchant="0" randomPropertiesId="0" seed="1381816384" slot="1"/>
+        <item durability="47" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_shoulder_01" id="7718" maxDurability="70" permanentenchant="0" randomPropertiesId="0" seed="1713277312" slot="2"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_shirt_white_01" id="16060" maxDurability="0" permanentenchant="0" randomPropertiesId="0" seed="0" slot="3"/>
+        <item durability="72" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_chest_plate12" id="10764" maxDurability="120" permanentenchant="0" randomPropertiesId="0" seed="655998560" slot="4"/>
+        <item durability="22" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_belt_26" id="7462" maxDurability="35" permanentenchant="0" randomPropertiesId="1197" seed="1028274752" slot="5"/>
+        <item durability="57" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_pants_03" id="10330" maxDurability="90" permanentenchant="0" randomPropertiesId="0" seed="1526688384" slot="6"/>
+        <item durability="37" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_boots_01" id="15565" maxDurability="50" permanentenchant="0" randomPropertiesId="942" seed="0" slot="7"/>
+
+        <item durability="23" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_bracer_03" id="10333" maxDurability="35" permanentenchant="0" randomPropertiesId="0" seed="1819284224" slot="8"/>
+        <item durability="23" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_gauntlets_19" id="10331" maxDurability="35" permanentenchant="0" randomPropertiesId="0" seed="645279816" slot="9"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_jewelry_ring_04" id="10710" maxDurability="0" permanentenchant="0" randomPropertiesId="0" seed="391926880" slot="10"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_jewelry_ring_30" id="29158" maxDurability="0" permanentenchant="0" randomPropertiesId="0" seed="1095117012" slot="11"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_misc_pelt_wolf_02" id="6340" maxDurability="0" permanentenchant="0" randomPropertiesId="0" seed="0" slot="14"/>
+        <item durability="78" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_sword_19" id="6802" maxDurability="90" permanentenchant="0" randomPropertiesId="0" seed="1995416704" slot="15"/>
+        <item durability="89" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_shield_05" id="7726" maxDurability="100" permanentenchant="0" randomPropertiesId="0" seed="2041293952" slot="16"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_shirt_guildtabard_01" id="5976" maxDurability="0" permanentenchant="0" randomPropertiesId="0" seed="0" slot="18"/>
+      </items>
+
+      <glyphs>
+        <glyph effect="Increases the duration and cooldown of Consecration by 2 sec." icon="ui-glyph-rune-18" name="Glyph of Consecration" type="major"/>
+        <glyph effect="Reduces the cooldown of your Lay on Hands spell by 5 min." icon="ui-glyph-rune-11" name="Glyph of Lay on Hands" type="minor"/>
+        <glyph effect="Increases the chance of dealing Seal of Command damage by 20%." icon="ui-glyph-rune-20" name="Glyph of Seal of Command" type="major"/>
+      </glyphs>
+    </characterTab>
+    <summary>
+      <c earned="25" points="250" total="931" totalPoints="10285"/>
+      <category id="92" name="General">
+
+        <c earned="7" earnedPoints="70" total="54" totalPoints="570"/>
+      </category>
+      <category id="96" name="Quests">
+        <c earned="2" earnedPoints="20" total="49" totalPoints="530"/>
+      </category>
+      <category id="97" name="Exploration">
+        <c earned="1" earnedPoints="10" total="70" totalPoints="830"/>
+      </category>
+      <category id="95" name="Player vs. Player">
+
+        <c earned="5" earnedPoints="50" total="149" totalPoints="1735"/>
+      </category>
+      <category id="168" name="Dungeons &amp; Raids">
+        <c earned="5" earnedPoints="50" total="366" totalPoints="3945"/>
+      </category>
+      <category id="169" name="Professions">
+        <c earned="5" earnedPoints="50" total="75" totalPoints="760"/>
+      </category>
+      <category id="201" name="Reputation">
+
+        <c earned="0" earnedPoints="0" total="44" totalPoints="545"/>
+      </category>
+      <category id="155" name="World Events">
+        <c earned="0" earnedPoints="0" total="124" totalPoints="1370"/>
+      </category>
+      <category id="81" name="Feats of Strength">
+        <c earned="0"/>
+      </category>
+    </summary>
+
+  </characterInfo>
+</page>

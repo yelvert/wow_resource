@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-info.xsl"?><page globalSearch="1" lang="en_us" requestQuery="i=44605" requestUrl="/item-info.xml">
+  <itemInfo>
+    <item icon="inv_misc_spineleaf_01" id="44605" level="80" name="Wild Spineleaf" quality="1" type="Reagent">
+      <cost buyPrice="5000" sellPrice="1250"/>
+      <vendors>
+        <creature area="Zul'Drak" classification="0" id="28827" maxLevel="75" minLevel="75" name="Co'man" title="Reagents" type="Humanoid"/>
+        <creature area="Icecrown" classification="0" id="30307" maxLevel="80" minLevel="80" name="Sarhule the Risen" title="Reagents" type="Undead"/>
+        <creature area="Howling Fjord" classification="0" id="24349" maxLevel="70" minLevel="70" name="Jessica Evans" title="Reagents and Poisons" type="Humanoid"/>
+        <creature area="Borean Tundra" classification="0" id="27186" maxLevel="65" minLevel="65" name="Oogrooq" title="Poison &amp; Reagents" type="Humanoid"/>
+        <creature area="Crystalsong Forest" classification="0" id="30239" maxLevel="80" minLevel="80" name="Alanura Firecloud" title="Poisons &amp; Reagents" type="Humanoid"/>
+        <creature area="The Storm Peaks" classification="0" id="29961" maxLevel="79" minLevel="79" name="Brangrimm" title="Poisons &amp; Reagents" type="Humanoid"/>
+        <creature area="Zul'Drak" classification="0" id="28809" maxLevel="75" minLevel="75" name="Vincent Huber" title="Reagents" type="Humanoid"/>
+        <creature area="Dragonblight" classification="0" id="27935" maxLevel="72" minLevel="72" name="Ferithos" title="Reagent Supplies" type="Dragonkin"/>
+        <creature area="Icecrown" classification="0" id="30438" maxLevel="77" minLevel="77" name="Supply Officer Thalmers" title="Poisons, Reagents &amp; Trade Supplies" type="Humanoid"/>
+        <creature area="Borean Tundra" classification="0" id="26968" maxLevel="69" minLevel="69" name="Drikka" title="Reagents" type="Humanoid"/>
+        <creature area="Howling Fjord" classification="0" id="24313" maxLevel="70" minLevel="70" name="Celina Summers" title="Reagents and Poisons" type="Humanoid"/>
+        <creature area="Grizzly Hills" classification="0" id="26382" maxLevel="75" minLevel="75" name="Balfour Blackblade" title="Reagents and Poisons" type="Humanoid"/>
+        <creature area="Crystalsong Forest" classification="0" id="29636" maxLevel="75" minLevel="75" name="Hagatha Moorehead" title="Reagent Merchant" type="Humanoid"/>
+        <creature area="The Storm Peaks" classification="0" id="29922" maxLevel="79" minLevel="79" name="Corig the Cunning" title="Poisons &amp; Reagents" type="Humanoid"/>
+        <creature area="Howling Fjord" classification="0" id="26984" maxLevel="70" minLevel="70" name="Stephan Franks" title="Reagent Supplies" type="Humanoid"/>
+        <creature area="Plaguelands: The Scarlet Enclave" classification="0" id="29203" maxLevel="56" minLevel="56" name="Alchemist Karloff" title="Corpse Dust Vendor" type="Humanoid"/>
+        <creature area="Grizzly Hills" classification="0" id="27133" maxLevel="69" minLevel="69" name="Seer Yagnar" title="Poison &amp; Reagents" type="Humanoid"/>
+        <creature area="The Storm Peaks" classification="0" id="29909" maxLevel="78" minLevel="78" name="Nilika Blastbeaker" title="Poisons, Reagents &amp; Alchemical Supplies" type="Humanoid"/>
+        <creature area="The Storm Peaks" classification="0" id="29968" maxLevel="79" minLevel="79" name="Hapanu Coldwind" title="Poisons &amp; Reagents" type="Humanoid"/>
+        <creature area="Dragonblight" classification="0" id="27054" maxLevel="70" minLevel="70" name="Modoru" title="Reagents &amp; Enchanting Supplies" type="Humanoid"/>
+        <creature area="Icecrown" classification="0" id="31115" maxLevel="80" minLevel="80" name="Quartermaster Vaskess" title="Supplies" type="Humanoid"/>
+        <creature area="Grizzly Hills" classification="0" id="26950" maxLevel="75" minLevel="74" name="Sanut Swiftspear" title="Reagents and Poisons" type="Humanoid"/>
+        <creature area="Howling Fjord" classification="0" id="26908" maxLevel="71" minLevel="71" name="Helen Fairchild" title="Reagents" type="Humanoid"/>
+        <creature area="Dragonblight" classification="0" id="26569" maxLevel="73" minLevel="73" name="Alys Vol'tyr" title="Reagents &amp; Enchanting Supplies" type="Humanoid"/>
+        <creature area="Dun Morogh" classification="0" id="30825" maxLevel="80" minLevel="80" name="Chief Engineer Copperclaw" type="Humanoid"/>
+        <creature area="Alterac Valley" classification="0" id="12096" maxLevel="55" minLevel="55" name="Stormpike Quartermaster" type="Humanoid"/>
+        <creature area="Alterac Valley" classification="0" id="12097" maxLevel="55" minLevel="55" name="Frostwolf Quartermaster" type="Humanoid"/>
+        <creature area="Ulduar" areaUrl="fl[source]=dungeon&amp;fl[dungeon]=4273&amp;fl[boss]=all" classification="0" id="33669" maxLevel="80" minLevel="80" name="Demolisher Engineer Blastwrench" title="K3" type="Humanoid"/>
+        <creature area="Dragonblight" classification="0" id="27176" maxLevel="73" minLevel="73" name="Mystic Makittuq" title="Poison &amp; Reagents" type="Humanoid"/>
+        <creature area="Zul'Drak" classification="0" id="28870" maxLevel="75" minLevel="75" name="Corpsedust" title="Reagents" type="Undead"/>
+        <creature area="Icecrown" classification="0" id="33871" maxLevel="75" minLevel="75" name="Julie Osworth" title="Reagents" type="Humanoid"/>
+        <creature area="Dun Morogh" classification="0" id="30345" maxLevel="80" minLevel="80" name="Chief Engineer Boltwrench" type="Humanoid"/>
+        <creature area="Icecrown" classification="0" id="30069" maxLevel="80" minLevel="80" name="Initiate Roderick" title="Poisons &amp; Reagents" type="Humanoid"/>
+        <creature area="Dragonblight" classification="0" id="27030" maxLevel="73" minLevel="73" name="Bradley Towns" title="Reagents &amp; Enchanting Supplies" type="Humanoid"/>
+        <creature area="Sholazar Basin" classification="1" id="29037" maxLevel="78" minLevel="78" name="Soo-jam" title="Reagents &amp; Poisons" type="Humanoid"/>
+        <creature area="Crystalsong Forest" classification="0" id="30244" maxLevel="80" minLevel="80" name="Miura Brightweaver" title="Poisons &amp; Reagents" type="Humanoid"/>
+        <creature area="Borean Tundra" classification="0" id="25736" maxLevel="70" minLevel="70" name="Supply Master Taz'ishi" title="Poison &amp; Reagents" type="Humanoid"/>
+        <creature area="The Storm Peaks" classification="0" id="29947" maxLevel="79" minLevel="79" name="Apothecary Maple" title="Poisons &amp; Reagents" type="Humanoid"/>
+        <creature area="Crystalsong Forest" classification="0" id="28714" maxLevel="75" minLevel="75" name="Ildine Sorrowspear" title="Enchanting Supplies" type="Humanoid"/>
+        <creature area="Howling Fjord" classification="0" id="27149" maxLevel="65" minLevel="65" name="Arrluk" title="Poison &amp; Reagents" type="Humanoid"/>
+        <creature area="Borean Tundra" classification="0" id="24357" maxLevel="65" minLevel="65" name="Maethor Skyshadow" title="Poison &amp; Reagents" type="Humanoid"/>
+        <creature area="Borean Tundra" classification="0" id="27138" maxLevel="72" minLevel="72" name="Apprentice Rosen" title="Reagent Supplies" type="Humanoid"/>
+        <creature area="Sholazar Basin" classification="1" id="29015" maxLevel="78" minLevel="78" name="Shaman Partak" title="Reagents &amp; Poisons" type="Humanoid"/>
+        <creature area="Dragonblight" classification="0" id="27039" maxLevel="70" minLevel="70" name="Lexey Brevig" title="Reagents &amp; Enchanting Supplies" type="Humanoid"/>
+        <creature area="Crystalsong Forest" classification="0" id="29537" maxLevel="75" minLevel="75" name="Darahir" title="Reagents &amp; Magical Goods" type="Humanoid"/>
+        <creature area="The Storm Peaks" classification="0" id="30010" maxLevel="80" minLevel="80" name="Fylla Ingadottir" title="Poisons &amp; Reagents" type="Humanoid"/>
+      </vendors>
+    </item>
+  </itemInfo>
+</page>

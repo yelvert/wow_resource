@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>45610</id>
+      <name>Boundless Gaze</name>
+      <icon>inv_helmet_92</icon>
+      <overallQualityId>4</overallQualityId>
+      <bonding>1</bonding>
+      <classId>4</classId>
+      <equipData>
+        <inventoryType>1</inventoryType>
+        <subclassName>Mail</subclassName>
+      </equipData>
+      <damageData/>
+      <bonusAgility>70</bonusAgility>
+      <bonusStamina>100</bonusStamina>
+      <bonusIntellect>68</bonusIntellect>
+      <armor armorBonus="0">1100</armor>
+      <socketData>
+        <socket color="Meta"/>
+        <socket color="Blue"/>
+      </socketData>
+      <durability current="0" max="85"/>
+      <requiredLevel>80</requiredLevel>
+      <bonusAttackPower>112</bonusAttackPower>
+      <bonusCritRating>69</bonusCritRating>
+      <bonusHitRating>66</bonusHitRating>
+      <itemSource areaId="4273" areaName="Ulduar" creatureId="32871" creatureName="Algalon the Observer" difficulty="h" dropRate="3" value="sourceType.creatureDrop"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>

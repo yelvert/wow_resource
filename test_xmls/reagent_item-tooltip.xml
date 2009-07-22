@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/layout/item-tooltip.xsl"?><page globalSearch="1" lang="en_us" requestUrl="/item-tooltip.xml">
+  <itemTooltips>
+    <itemTooltip>
+      <id>44605</id>
+      <name>Wild Spineleaf</name>
+      <icon>inv_misc_spineleaf_01</icon>
+      <overallQualityId>1</overallQualityId>
+      <bonding>0</bonding>
+      <stackable>20</stackable>
+      <classId>15</classId>
+      <equipData>
+        <inventoryType>0</inventoryType>
+      </equipData>
+      <damageData/>
+      <requiredLevel>-1</requiredLevel>
+      <itemSource value="sourceType.vendor"/>
+    </itemTooltip>
+  </itemTooltips>
+</page>
